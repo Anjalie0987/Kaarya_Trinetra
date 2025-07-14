@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# 🏗️ AI-Powered Construction Site Analysis (In Progress)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An intelligent construction monitoring system that leverages Convolutional Neural Networks (CNN) to analyze and classify construction stages from images, paired with geolocation tracking and 3D modeling dashboards for real-time project oversight.
 
-## Available Scripts
+🌐 **Live Demo**: [Click here](https://bucolic-paletas-250e99.netlify.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📷 **CNN-based Stage Detection**: Identifies and classifies construction progress (e.g., Foundation, Framing, Finishing).
+- 🌍 **Geolocation Tagging**: Automatically logs site coordinates with each image capture or upload.
+- 🧱 **3D Modeling Dashboard**: Visual representation of project development using real-time modeling tools.
+- 📊 **Progress Analytics**: Insightful charts and stage-wise completion indicators.
+- ☁️ **Deployed on Netlify** for quick accessibility and modern UI presentation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **AI/ML**: Python, TensorFlow/Keras (CNN Models)
+- **Frontend**: HTML5, CSS3, JavaScript
+- **APIs**: Geolocation API, Cloud APIs (optional for image hosting)
+- **3D Visualization**: Three.js / WebGL (planned)
+- **Deployment**: Netlify
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧪 How It Works
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. User uploads a construction image.
+2. The backend (CNN model) classifies the image into a specific construction stage.
+3. The frontend tags the image with its geolocation and sends it to the dashboard.
+4. Progress is visualized on a 3D timeline and map-based interface.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧑‍💻 Setup Instructions (Coming Soon)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> As the project is under development, detailed setup instructions and API documentation will be added soon.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📌 Status
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🛠️ **In Progress**  
+Core features are being actively developed and tested. Contributions and feedback are welcome!
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🙋‍♂️ Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Divyam Mishra**  
+🔗 [GitHub Profile](https://github.com/divyam66)  
+📧 divyammishra2004@gmail.com
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📄 License
 
-### Analyzing the Bundle Size
+This project is open-source and intended for research, education, and innovation in the field of construction tech. Please attribute appropriately if reusing components.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
