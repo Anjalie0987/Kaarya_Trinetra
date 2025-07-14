@@ -51,7 +51,7 @@ Core features are being actively developed and tested. Contributions and feedbac
 ## 🙋‍♂️ Author
 
 **Divyam Mishra**  
-🔗 [GitHub Profile](https://github.com/divyam66)  
+🔗 [GitHub Profile](https://github.com/Divyam-Mishra)  
 📧 divyammishra2004@gmail.com
 
 ---
