@@ -1,3 +1,4 @@
+"# Kaarya_Trinetra" 
 # 🏗️ AI-Powered Construction Site Analysis (In Progress)
 
 An intelligent construction monitoring system that leverages Convolutional Neural Networks (CNN) to analyze and classify construction stages from images, paired with geolocation tracking and 3D modeling dashboards for real-time project oversight.
@@ -48,13 +49,7 @@ Core features are being actively developed and tested. Contributions and feedbac
 
 ---
 
-## 🙋‍♂️ Author
 
-**Divyam Mishra**  
-🔗 [GitHub Profile](https://github.com/Divyam-Mishra)  
-📧 divyammishra2004@gmail.com
-
----
 
 ## 📄 License
 
